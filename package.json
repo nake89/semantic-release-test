@@ -1,0 +1,24 @@
+{
+  "name": "nake-sem-release-test",
+  "version": "0.0.0-development",
+  "description": "Testing out semantic-release",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nake89/semantic-release-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nake89/semantic-release-test/issues"
+  },
+  "homepage": "https://github.com/nake89/semantic-release-test#readme",
+  "devDependencies": {
+    "semantic-release": "^17.2.1"
+  }
+}
