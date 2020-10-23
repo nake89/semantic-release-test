@@ -20,5 +20,10 @@
   "homepage": "https://github.com/nake89/semantic-release-test#readme",
   "devDependencies": {
     "semantic-release": "^17.2.1"
+  },
+  "release": {
+    "branches": [
+      "main"
+    ]
   }
 }
